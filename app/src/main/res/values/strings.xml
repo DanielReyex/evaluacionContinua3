@@ -5,5 +5,8 @@
     <string name="login_button">Login</string>
     <string name="login_cancel_button">Cancel</string>
     <string name="login_error_message">Contraseña debe tener 6 caracteres</string>
-
+    <string name="search_title">Search</string>
+    <string name="filter_title">Title</string>
+    <string name="product_title">Titulo</string>
+    <string name="product_description">Esta es la pelicula......</string>
 </resources>
