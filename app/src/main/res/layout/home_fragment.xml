@@ -16,7 +16,7 @@
             android:layout_height="60dp"
             app:title="@string/app_name"
             app:navigationIcon="@drawable/menu"
-            android:background="@color/red"
+            android:background="@color/light_blue"
             />
 
     </com.google.android.material.appbar.AppBarLayout>
