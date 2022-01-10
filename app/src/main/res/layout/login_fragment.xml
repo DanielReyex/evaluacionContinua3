@@ -34,6 +34,7 @@
             android:textAllCaps="true"
             android:background="@color/red"
             android:textSize="34dp"
+            android:textColor="@android:color/black"
         />
 
 
@@ -91,12 +92,10 @@
                 android:id="@+id/login_cancel_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginEnd="12dp"
-                android:layout_marginRight="12dp"
-                android:layout_toStartOf="@id/login_button"
-                android:layout_toLeftOf="@id/login_button"
+                android:layout_marginEnd="15dp"
+                android:layout_marginRight="15dp"
                 android:text="@string/login_cancel_button"
-                style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+
                 />
         </RelativeLayout>
     </LinearLayout>
